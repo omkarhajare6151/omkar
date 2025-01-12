@@ -1,1 +1,1 @@
-# omkar
+# image-scraping-project
